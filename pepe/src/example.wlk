@@ -1,6 +1,6 @@
 /** ejemplo pepe Wollok <-> Git */
 object pepe {
 	method quienSos() {
-		return 'I am Pepe!'
+		return 'I am Pepe!' 
 	}
 }
